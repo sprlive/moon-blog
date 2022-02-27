@@ -4,7 +4,7 @@ bio:                '(｡･∀･)ﾉﾞ嗨，我是Sprinkle，一个喜欢玩�
 description:        "(｡･∀･)ﾉﾞ嗨，我是Sprinkle，一个喜欢玩我的世界，在十字街聊天的高中生!"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/IMG_20220202_223657.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
