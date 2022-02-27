@@ -5,8 +5,7 @@ description:        "(｡･∀･)ﾉﾞ嗨，我是Sprinkle，一个喜欢玩�
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/IMG_20220202_223657.jpg'
-background:         'https://pic.sprinkle.workers.dev/'
-# background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://spr233.eu.org
