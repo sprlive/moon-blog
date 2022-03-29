@@ -16,6 +16,7 @@ comments: false
 [Henrize博客](https://henrize.kim)<br>
 [Leader的博客](https://leader.rthe.xyz)<br>
 [慕容🐷のGithub](https://github.com/murongpig)<br>
+[Chiro的博客](https://www.chiro.work)<br>
 [Hang_Co的Github](https://github.com/hangco-studio)<br>
 [Anotia博客](https://anotiawang.github.io)<br>
 感谢以上小伙伴，为我学习计算机提供莫大的帮助 ﾟ∀ﾟ)σ<br>
