@@ -12,7 +12,12 @@ comments: false
 
 ### 友情链接
 ##### 我的高材生小伙伴の网站
+[十字街（识字街doge）](https://crosst.chat)<br>
+[Henrize博客](https://henrize.kim)<br>
 [Leader的博客](https://leader.rthe.xyz)<br>
+[慕容🐷のGithub](https://github.com/murongpig)<br>
+[Anotia博客](https://anotiawang.github.io)<br>
+##### 感谢以上小伙伴，为我网站的开发提供莫大的帮助
 ### 注
 略懂Python和Html，平常喜欢网站和一些程序的编写<br>
 最早来源于一个冲动、在当时不切实际的想法<br>
