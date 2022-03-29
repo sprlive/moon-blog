@@ -10,6 +10,9 @@ comments: false
 
 [关注我](https://space.bilibili.com/504151731)<br>
 
+### 友情链接
+##### 我的高材生小伙伴の网站
+[Leader的博客](https://leader.rthe.xyz)<br>
 ### 注
 略懂Python和Html，平常喜欢网站和一些程序的编写<br>
 最早来源于一个冲动、在当时不切实际的想法<br>
