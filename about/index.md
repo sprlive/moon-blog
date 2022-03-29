@@ -19,7 +19,7 @@ comments: false
 [Hang_Co的Github](https://github.com/hangco-studio)<br>
 [Anotia博客](https://anotiawang.github.io)<br>
 感谢以上小伙伴，为我学习计算机提供莫大的帮助 ﾟ∀ﾟ)σ<br>
-### 其他网站
+##### 其他网站
 [Leader论坛](https://leader.freeflarum.com)<br>
 [冬日小屋](https://bbs.spr233.eu.org)<br>
 [Sprinkle分享站](https://drive.sprinkle.workers.dev)<br>
