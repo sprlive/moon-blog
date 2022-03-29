@@ -26,6 +26,7 @@ comments: false
 [ee的博客](https://paperee.tk)<br>
 ### 注
 略懂Python和Html，平常喜欢网站和一些程序的编写<br>
+曾是Cladonia十叠工作室的管理员？（<br>
 最早来源于一个冲动、在当时不切实际的想法<br>
 看到钉钉圈子，想做一个网站来发表我的点点滴滴<br>
 以后路上的坎一定会非常多，但<br>
