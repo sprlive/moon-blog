@@ -16,8 +16,14 @@ comments: false
 [Henrize博客](https://henrize.kim)<br>
 [Leader的博客](https://leader.rthe.xyz)<br>
 [慕容🐷のGithub](https://github.com/murongpig)<br>
+[Hang_Co的Github](https://github.com/hangco-studio)<br>
 [Anotia博客](https://anotiawang.github.io)<br>
-##### 感谢以上小伙伴，为我网站的开发提供莫大的帮助
+感谢以上小伙伴，为我学习计算机提供莫大的帮助 ﾟ∀ﾟ)σ<br>
+### 其他网站
+[Leader论坛](https://leader.freeflarum.com)<br>
+[冬日小屋](https://bbs.spr233.eu.org)<br>
+[Sprinkle分享站](https://drive.sprinkle.workers.dev)<br>
+[ee的博客](https://paperee.tk)<br>
 ### 注
 略懂Python和Html，平常喜欢网站和一些程序的编写<br>
 最早来源于一个冲动、在当时不切实际的想法<br>
