@@ -24,6 +24,7 @@ comments: false
 [冬日小屋](https://bbs.spr233.eu.org)<br>
 [Sprinkle分享站](https://drive.sprinkle.workers.dev)<br>
 [ee的博客](https://paperee.tk)<br>
+(我怎么会在网上认识这么多人…(((　ﾟдﾟ))))<br>
 ### 注
 略懂Python和Html，平常喜欢网站和一些程序的编写<br>
 曾是Cladonia十叠工作室的管理员？（<br>
