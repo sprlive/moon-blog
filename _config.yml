@@ -3,8 +3,8 @@ title:              雨中小栈 - Sprinkleの博客
 bio:                '希望你可以记住我，记住我这样活过，这样在你身边呆过。---村上春树'
 description:        "(｡･∀･)ﾉﾞ嗨，我是Sprinkle，一个喜欢玩我的世界，在十字街聊天的高中生!"
 reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/IMG_20220202_223657.jpg'
+words_per_minute:   100
+logo:               'https://avatars.githubusercontent.com/u/65575548?v=4'
 background:         'assets/img/bg.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
